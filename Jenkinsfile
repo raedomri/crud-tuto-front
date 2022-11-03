@@ -6,9 +6,9 @@ pipeline{
             steps{
 
 
-                git branch: 'facture_branches',
-                credentialsId: '60527384-563b-4df0-85b8-10954cf21222',
-                url: 'https://github.com/nesrinehm1996/magasinBack.git'
+                git branch: 'master',
+                credentialsId: 'da9bc35b-d402-40d7-8098-e96a284e3c9b',
+                url: ''
 
                 }
 
