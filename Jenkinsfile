@@ -8,7 +8,7 @@ pipeline{
 
                 git branch: 'master',
                 credentialsId: 'da9bc35b-d402-40d7-8098-e96a284e3c9b',
-                url: ''
+                url: 'https://github.com/raedomri/crud-tuto-front.git'
 
                 }
 
